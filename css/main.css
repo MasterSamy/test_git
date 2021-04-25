@@ -1,0 +1,53 @@
+body{
+    background-image: url("/img/40.jpg");
+    background-size: 1500px 900px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+h1{
+   
+    font-size: 40px;
+    text-align: center;
+    border: 2px inset rgba(168, 29, 110, 0.596);
+    border-radius: 5px;
+    color:rgba(0, 0, 0, 0.623);
+    font-family: lucida sans;
+    background-color: rgba(168, 29, 110, 0.596);
+}
+
+p{
+    display: inline-block;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    background-color: rgba(168, 29, 110, 0.596);
+    margin: 30px 20px 15px;
+}
+
+.yellow{
+    display: inline-block;
+    margin-top: 190px;
+    margin-left: 20px;
+    font-size: 30px;   
+    font-family: arial;
+    font-weight: normal;
+    border: 2px inset rgba(168, 29, 110, 0.596);
+    border-radius: 7px;
+    color:rgb(0, 0, 0);
+    background-color: rgba(168, 29, 110, 0.733);
+}
+
+.name a{
+    display: inline-block;
+    color:rgb(0, 0, 0);
+    background-color: rgba(168, 29, 110, 0.596);
+    border: 3px solid rgba(168, 29, 110, 0.596);
+    border-radius: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: xx-large;
+    font-family: georgia;
+    border-style: inset;
+}
